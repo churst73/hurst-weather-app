@@ -159,3 +159,13 @@ h3 {
 .measurements {
   color: #dfa73e;
 }
+
+.coder {
+  font-family: "Poppins", sans-serif;
+  color: #dfa73e;
+  text-align: center;
+}
+.coder-link:hover {
+  cursor: pointer;
+  color: #6d6e6f;
+}
